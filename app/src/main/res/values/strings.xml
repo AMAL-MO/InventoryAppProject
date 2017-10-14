@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Inventory Project</string>
+
+    <string name="add_new_product">Add new product</string>
+    <string name="edit_existing_product">Edit product</string>
+    <string name="add_button">Add</string>
+    <string name="delete_button">Delete</string>
+    <string name="product_name">Product Name :</string>
+    <string name="product_name_hint">e.g. cafe</string>
+    <string name="product_quantity">Quantity :</string>
+    <string name="product_price">Price ($) :</string>
+    <string name="product_price_hint">e.g. 15</string>
+    <string name="product_quantity_init"> 0</string>
+    <string name="no_changes_toast">Product not saved or updated!</string>
+    <string name="successful_insert_toast">New product successfully added!</string>
+    <string name="failed_insert_toast">Error with saving product!</string>
+    <string name="successful_update_toast">Product successfully updated!</string>
+    <string name="failed_update_toast">Error with updating product!</string>
+    <string name="successful_delete_toast">Product successfully deleted!</string>
+    <string name="failed_delete_toast">Could not delete product!</string>
+    <string name="invalid_product_quantity_toast">Quantity cannot be less than zero</string>
+    <string name="invalid_product_name_add_toast">Please input a valid name</string>
+    <string name="invalid_product_quantity_add_toast">Please input a valid quantity</string>
+    <string name="invalid_product_price_add_toast">Please input a valid price</string>
+    <string name="invalid_product_image_add_toast">Please input a valid image</string>
+    <string name="product_out_of_stock_toast">Product currently out of stock!</string>
+    <string name="prompt_delete_product">You are about to delete this product! Are you sure?</string>
+    <string name="prompt_delete">Delete</string>
+    <string name="prompt_cancel">Cancel</string>
+    <string name="prompt_yes">Yes</string>
+    <string name="prompt_leave_without_save">You have unsaved changes. Are you sure you want to leave?</string>
+    <string name="button_sale">SALE</string>
+    <string name="label_quantity"> available in stock</string>
+    <string name="label_price"> USD </string>
+
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="layout_width_of_zero_d_p">0dp</dimen>
+    <dimen name="margin_or_padding_four_d_p">4dp</dimen>
+    <dimen name="padding">16dp</dimen>
+    <dimen name="height_or_width_of_fifty_d_p">50dp</dimen>
+    <dimen name="height_or_width_of_hundred_d_p">100dp</dimen>
+    <dimen name="height_or_width_of_two_hundred_d_p">200dp</dimen>
+    <dimen name="size_of_fourteen_s_p">14sp</dimen>
+    <dimen name="size_of_sixteen_s_p">16sp</dimen>
+    <dimen name="detail_text_size">20sp</dimen>
+    <dimen name="detail_image_bt_margin">50dp</dimen>
+</resources>
